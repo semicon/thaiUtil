@@ -1,11 +1,11 @@
-🚀 link
+<h3>🚀 link</h3>
 https://semicon.github.io/thaiUtil/thaiUtil.js
 
-⭐ CDN thaiUtil
+<h3>⭐ CDN thaiUtil</h3>
 <script src="https://cdn.jsdelivr.net/gh/semicon/thaiUtil/thaiUtil.min.js"></script>
 
+<h3>✅ ตัวอย่างใช้งาน (Google Apps Script / Web)</h3>
 
-✅ ตัวอย่างใช้งาน (Google Apps Script / Web)
 
 const todayFull = ThaiUtil.formatThaiDateFull(new Date());
 
@@ -26,7 +26,7 @@ console.log(moneyText);
 
 
 
-🎯 ตัวอย่างผลลัพธ์
+<h3>🎯 ตัวอย่างผลลัพธ์</h3>
 
 วันพฤหัสบดี ที่ ๑๒ กุมภาพันธ์ พ.ศ. ๒๕๖๙
 
