@@ -2,7 +2,7 @@
 https://semicon.github.io/thaiUtil/thaiUtil.js
 
 <h3>⭐ CDN thaiUtil</h3>
-<script src="https://cdn.jsdelivr.net/gh/semicon/thaiUtil/thaiUtil.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/semicon/thaiUtil/thaiUtil.js"></script>
 
 <h3>✅ ตัวอย่างใช้งาน (Google Apps Script / Web)</h3>
 
